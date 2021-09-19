@@ -1,0 +1,13 @@
+.table__text{
+  z-index: 2;
+  line-height: 1.2;
+  font-size: 18px;
+  font-weight: normal;
+  margin-top: 20px;
+  margin-bottom: 0;
+}
+
+
+.table__text:nth-child(3n){
+  margin-bottom: 0;
+}

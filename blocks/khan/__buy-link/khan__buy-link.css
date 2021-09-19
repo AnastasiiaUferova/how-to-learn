@@ -1,0 +1,8 @@
+.khan__buy-link{
+  z-index: 2;
+  height: 42px;
+  line-height: 42px;
+  font-size: 30px;
+  font-weight: normal;
+  color: #2f80ed;
+}
