@@ -1,5 +1,5 @@
 .feynman{
-  min-height: 890px;
+  height: 890px;
   display: flex;
   margin:0;
   background-color: #f2f2f2;
@@ -8,4 +8,5 @@
   justify-content: flex-start;
   align-items: center;
   padding-top: 100px;
+  box-sizing: border-box;
 }
