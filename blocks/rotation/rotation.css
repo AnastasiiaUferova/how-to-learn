@@ -9,5 +9,5 @@
 
   .rotation {
     animation: rotation 20s linear infinite;
-
+    transition: rotation 1s ease-out;
   }

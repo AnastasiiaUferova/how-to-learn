@@ -3,5 +3,6 @@
 }
 
 .link:hover {
-  outline: dotted#2f80ed;
+  opacity: 0.3;
+  transition: opacity 1s ease-in-out;
 }
