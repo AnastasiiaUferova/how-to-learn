@@ -13,7 +13,7 @@ The project is designed to facilitate the learning process. It includes links to
 
 ## Technologies used
 
-File structure was to be organised according to BEM-methodology (Nsted file structure)
+File structure was to be organised according to BEM-methodology (Nested file structure)
 
 * HTML;
 * CSS;
@@ -21,8 +21,7 @@ File structure was to be organised according to BEM-methodology (Nsted file stru
 * Simple CSS animations (keyframes);
 * Flexbox-layouting;
 * Positioning Elements;
-* File Structure and File Paths (Nested BEM);
-* Git
+* Git;
 
 
 Project link: https://anastasiiauferova.github.io/how-to-learn/index.html
