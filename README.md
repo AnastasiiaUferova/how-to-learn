@@ -8,20 +8,19 @@ The project is designed to facilitate the learning process. It includes links to
 
 ## Functionality
 
-* Animating and transforming page elements with CSS
-* Video section with Youtube videos embedded in the page
+It's my first web-dev project where I practiced 
+
+* working with embedded Youtube videos,
+* flexbox-layouting, positioning elements,
+* animating and transforming page elements with CSS
+* organazing file structure according to BEM-methodology (Nested file structure)
 
 ## Technologies used
-
-File structure was to be organised according to BEM-methodology (Nested file structure)
 
 * HTML;
 * CSS;
 * YouTube API;
 * Simple CSS animations (keyframes);
-* Flexbox-layouting;
-* Positioning Elements;
 * Git;
-
 
 Project link: https://anastasiiauferova.github.io/how-to-learn/index.html
