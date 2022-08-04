@@ -1,4 +1,6 @@
-# 'How to learn' one-page student project for Yandex.Practicum
+# 'How to learn' one-page student project for [Yandex.Practicum](https://practicum.com)
+
+## [Check out the project on GitHubPages](https://anastasiiauferova.github.io/how-to-learn/index.html)
 
 ## Description
 
@@ -21,6 +23,4 @@ It's my first web-dev project where I practiced
 * CSS;
 * YouTube API;
 * Simple CSS animations (keyframes);
-* Git;
-
-Project link: https://anastasiiauferova.github.io/how-to-learn/index.html
+* Git
