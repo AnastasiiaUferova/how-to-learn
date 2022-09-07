@@ -1,5 +1,8 @@
 # 'How to learn' one-page student project for [Yandex.Practicum](https://practicum.com)
 
+
+https://user-images.githubusercontent.com/78100943/188943198-4b638c96-3415-4fa9-ad54-4dd96cf1e5a9.mp4
+
 ## [Check out the project on GitHubPages](https://anastasiiauferova.github.io/how-to-learn/index.html)
 
 ## Description
